@@ -4,10 +4,10 @@ export const site = {
   tagline: "منيو مطعمك… بطابع يليق بذوقك.",
   whatsappNumber: "9647730122166",
   whatsappDisplay: "07730122166",
-  instagramUrl: "https://instagram.com/zoqmenu",
-  instagramHandle: "@zoqmenu",
+  instagramUrl: "https://instagram.com/zoq_iq",
+  instagramHandle: "@zoq_iq",
   ctaPrimary: "اطلب المنيو",
-  copyright: "© 2026 ذوق منيو — جميع الحقوق محفوظة",
+  copyright: "© 2026 ذوق — جميع الحقوق محفوظة",
 } as const;
 
 export const navLinks = [
